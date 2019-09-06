@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // TODO ACTIVITY 1: tambahkan satu baris code actvity
+
+        //TODO 2 : menambakan 1 baris kode di MainActivity
     }
 }
